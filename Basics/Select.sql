@@ -1,4 +1,4 @@
- #SELECT  data by using select keyword
+#SELECT  data by using select keyword
 
 -SELECT column1, column2, ... FROM table_name;
 
